@@ -1,0 +1,6 @@
+@define-color background #121212;
+@define-color foreground #ffffff;
+
+#waybar {
+  background-color: rgba(0,0,0,0);
+}
