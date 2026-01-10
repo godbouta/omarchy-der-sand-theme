@@ -1,9 +1,9 @@
 accent = "#ffffff"
-cursor = "#121212"
+cursor = "#db7b4d"
 foreground = "#ffffff"
 background = "#121212"
-selection_foreground = "#98c7cd"
-selection_background = "#ffffff"
+selection_foreground = "#121212"
+selection_background = "#db7b4d"
 
 color0 = "#121212"
 color1 = "#db7b4d"
