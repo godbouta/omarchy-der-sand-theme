@@ -9,6 +9,10 @@
   font-size: 11px;
 }
 
+box.modules-center {
+  padding-top: 8px;
+}
+
 #workspaces button {
   all: initial;
   padding: 0 5px;
