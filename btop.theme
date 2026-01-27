@@ -1,5 +1,5 @@
 # Keep background as-is (or empty for transparency)
-theme[main_bg]="#121212"
+theme[main_bg]=""
 theme[main_fg]="#EDE7E0"
 
 # Titles + hot accents = orange
