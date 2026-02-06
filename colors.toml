@@ -1,24 +1,35 @@
-accent = "#F6F7FB"
-cursor = "#FF965C"
-foreground = "#EDE7E0"
-background = "#0B0D10"
-selection_foreground = "#0B0D10"
-selection_background = "#CFE8FF"
+# Accent and UI colors
+accent = "#98aacd"
+active_border_color = "#a4b7da"
+active_tab_background = "#98aacd"
 
-color0  = "#0B0D10"
-color1  = "#FF6B4A"
-color2  = "#e8a472"
-color3  = "#FFD08A"
-color4  = "#8FB1FF"
-color5  = "#E7A5C8"
-color6  = "#9DD4FF"
-color7  = "#EDE7E0"
+# Cursor colors
+cursor = "#ffffff"
 
-color8  = "#7A808A"
-color9  = "#FFB089"
-color10 = "#FFD08A"
-color11 = "#FFE0B0"
-color12 = "#C8D6FF"
-color13 = "#F2B6D9"
-color14 = "#BFE6FF"
-color15 = "#F6F7FB"
+# Primary colors
+foreground = "#ffffff"
+background = "#121212"
+
+# Selection colors
+selection_foreground = "#121212"
+selection_background = "#98aacd"
+
+# Normal colors (ANSI 0-7)
+color0 = "#121212"
+color1 = "#e08548"
+color2 = "#cdcd98"
+color3 = "#cdb598"
+color4 = "#98aacd"
+color5 = "#bb98cd"
+color6 = "#90b7e4"
+color7 = "#ffffff"
+
+# Bright colors (ANSI 8-15)
+color8 = "#9e9e9e"
+color9 = "#f2b892"
+color10 = "#dadaa4"
+color11 = "#dac2a4"
+color12 = "#a4b7da"
+color13 = "#c8a4da"
+color14 = "#d8e7f7"
+color15 = "#ffffff"
