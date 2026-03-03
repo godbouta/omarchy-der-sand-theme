@@ -1,5 +1,9 @@
 # Der-Sand Omarchy Theme
 
+A liquid glass, desert-like theme for Omarchy desktop.
+
+<img src="./preview.png" alt="Preview" width="100%">
+
 ## Install
 
 Use the Omarchy theme installer:
@@ -10,10 +14,10 @@ omarchy-theme-install https://github.com/godbouta/omarchy-der-sand-theme
 
 ## Wallpapers
 
-<img src="backgrounds/01_a-desert-landscape-with-blue-sky-and-clouds.jpg" alt="a-desert-landscape-with-blue-sky-and-clouds" width="100%">
-<img src="backgrounds/02_a-desert-with-a-few-sand-dunes-and-clear-blue-sky.jpg" alt="a-desert-with-a-few-sand-dunes-and-clear-blue-sky" width="100%">
-<img src="backgrounds/03_a-couple-of-camels-walking-across-a-desert.jpg" alt="a-couple-of-camels-walking-across-a-desert" width="100%">
-<img src="backgrounds/04_a-person-walking-on-a-rope.jpg" alt="a-person-walking-on-a-rope" width="100%">
+<img src="./backgrounds/a-desert-landscape-with-blue-sky-and-clouds.jpg" alt="A desert landscape with blue sky and clouds" width="100%">
+<img src="./backgrounds/a-desert-with-a-few-sand-dunes-and-clear-blue-sky.jpg" alt="a desert with a few sand dunes and clear blue sky" width="100%">
+<img src="./backgrounds/a-couple-of-camels-walking-across-a-desert.jpg" alt="a couple of camels walking across a desert" width="100%">
+<img src="./backgrounds/a-person-walking-on-a-rope.jpg" alt="a person walking on a rope" width="100%">
 
 ## Credits
 
