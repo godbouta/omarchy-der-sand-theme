@@ -9,7 +9,7 @@ theme[hi_fg]="#e8a472"
 # Selection: subtle warm gray
 theme[selected_bg]="#3A3A3A"
 theme[selected_fg]="#EDE7E0"
-theme[inactive_fg]="#7A7A7A"
+theme[inactive_fg]="#EDE7E0"
 
 # Proc misc: warm highlight
 theme[proc_misc]="#e8a472"
@@ -19,11 +19,11 @@ theme[cpu_box]="#e8a472"
 theme[mem_box]="#e8a472"
 theme[net_box]="#e8a472"
 theme[proc_box]="#e8a472"
-theme[div_line]="#6A6A6A"
+theme[div_line]="#EDE7E0"
 
 # ---- Gradients (orange / yellow / green) ----
 # Add 2 colors (good on #121212):
-# green  = #8FD7A8
+# green = #8FD7A8
 # yellow = #FFD08A
 
 # Temperature: green -> yellow -> orange
